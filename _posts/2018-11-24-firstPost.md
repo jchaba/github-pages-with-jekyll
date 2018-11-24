@@ -1,3 +1,8 @@
+---
+title: "FIRST POST from JC"
+date: 2018-11-24
+---
+
 # First post on a blog
 
 ## Intro
